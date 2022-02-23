@@ -1,0 +1,1108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the cathedral-church of Worcester at the Lent assize, April 7th, 1688 by Daniel Kenrick, Master of Arts and vicar of Kemsey in Worcestershire.</title>
+            <author>Kenrick, Daniel, fl. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47260</idno>
+            <idno type="STC">Wing K307</idno>
+            <idno type="STC">ESTC R29934</idno>
+            <idno type="EEBO-CITATION">11224946</idno>
+            <idno type="OCLC">ocm 11224946</idno>
+            <idno type="VID">46914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1445:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the cathedral-church of Worcester at the Lent assize, April 7th, 1688 by Daniel Kenrick, Master of Arts and vicar of Kemsey in Worcestershire.</title>
+                  <author>Kenrick, Daniel, fl. 1685.</author>
+               </titleStmt>
+               <extent>[36] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by David Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Allowed to be published this 19th day of June, 1688."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Church and state --  England --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46914:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the Cathedral-Church OF WORCESTER, AT The
+Lent Aſſize, <hi>April</hi> 7<hi>th.</hi> 1688.</p>
+            <p>BY <hi>DANIEL KENRICK,</hi> Maſter of Arts, and Vicar OF KEMSEY
+IN WORCESTERSHIRE</p>
+            <p>Allowed to be Publiſhed this 19<hi>th.</hi> Day of
+<hi>June,</hi> 1688.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>David Mallet,</hi> next door to
+the <hi>Star</hi> between <hi>Fleet-bridge</hi> and <hi>Bridewel-bridge.</hi>
+1688.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46914:2"/>
+            <pb facs="tcp:46914:2"/>
+            <head>To the Right Worſhipful, Sir <hi>Walter Kirkham Blount,</hi>
+of <hi>Soddington,</hi> Barronet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF the Honour conferr'd upon me, in ſelecting me par<g ref="char:EOLhyphen"/>ticularly
+from my Brethren, for the Preaching of this Sermon, were not a ſufficient
+Reaſon for the preſent Dedication, yet the likeneſs of the Subject to
+your Virtues, would make the Diſcourſe tend naturally towards you: For it's
+chief import is concerning thoſe beſt Qualifications, which are your great
+Ornaments <hi>(viz.) Religion</hi> and <hi>Loy<g ref="char:EOLhyphen"/>alty.</hi> And, tho it may
+poſſibly want Cultivation, yet I'm ſure 'tis not deſtitute of Charity
+and Honeſty; which alone will be prevalent enough to make it grateful to Sir
+<hi>Walter Blount,</hi> whoſe kind and upright Converſation has oblig'd all
+to whom it has extended; It has created an extraordina<g ref="char:EOLhyphen"/>ry Love to your
+<hi>Perſon,</hi> where there has been a Diſeſteem for your
+<hi>Religion,</hi> and forc'd ev'n the prejudic'd <hi>Mobile</hi> to confeſs,
+that 'tis poſſible to be at once a Roman Ca<g ref="char:EOLhyphen"/>tholick, and an <hi>Honeſt
+Man.</hi> I muſt confeſs, ſuch has been the Rude Inſolence ev'n of my
+Brethren, and thoſe of my own Communion, towards me, upon my Preaching of
+this Sermon, that I may be judg'd by ſome to want rather a Regiment, than a
+private Perſon for my Patron; and to lie under a high Obligation of my giving
+God Thanks, that there is the force of an active Power to obviate the Out<g ref="char:EOLhyphen"/>rages
+of <hi>Paſſive Obedience.</hi> But Truth, which is it's own Defence, is
+able, when it only ſhines, like the Light which Converted St. <hi>Paul,</hi>
+to ſtrike it's Enemies to the Earth;<pb facs="tcp:46914:3"/>and as I never <hi>did:</hi>
+ſo with Gods help, I am ſure I never <hi>ſhall</hi> want Courage to Act
+<hi>honeſtly.</hi> And therefore I will con<g ref="char:EOLhyphen"/>temn their Frowns and their
+Threatnings; and more eſpe<g ref="char:EOLhyphen"/>cially becauſe, Sir, I am under the Influence of
+ſuch a Pa<g ref="char:EOLhyphen"/>tron, who, like your Royal Maſter, never diſ-regarded your
+Friends, nor deſerted your Servants; and whoſe Counte<g ref="char:EOLhyphen"/>nance alone, like
+that of <hi>Caeſar</hi> to his Soldiers, is able to inſpire an undaunted
+Reſolution into him who is, Sir,</p>
+            <closer>
+               <signed>Your very Faithful, and Humble Servant, <hi>Daniel
+Kenrick.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:46914:3"/>
+            <head> 
+               <q>
+                  <bibl>ROM. 13.1.</bibl> 
+                  <p>Let every Soul be Subject to the Higher Powers.</p>
+               </q>
+            </head>
+            <div type="introduction">
+               <p>IF This Text, and its import were not ſufficiently known, and
+almoſt every day Diſcours'd upon, I might minutely inſiſt upon its
+Coherence and Ex<g ref="char:EOLhyphen"/>plication; diſcourſe more largely upon the Origine, and
+neceſſity of Government; diſtinguiſh it into its kinds, and ſet down
+ſome Rules, by which inferior Governours, both Eccleſiaſtical and Civil
+ought to go: But as this would not be altogether ſo pertinent to ſuch an
+Audi<g ref="char:EOLhyphen"/>ence, ſo would it rob me of that time, which I hope more uſefully to
+imploy in this place. And therefore without any ſuch farther
+Diſquiſition, I ſhall briefly and generally Diſcourſe, 
+<list>
+                     <item>I. Of the Neceſſity of our Subjection to the Higher
+Powers: And then more particularly.</item>
+                     <item>II. Of the ſtrick Obedience we owe to the higher
+Po<g ref="char:EOLhyphen"/>wers, or the Kings of this Realm.</item>
+                     <item>III. Of the Reaſonableneſs of our Obedience to the
+King in the preſent juncture of Affairs.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="1" type="section">
+               <p>I. There is a Neceſſity of Subjection to the higher Powers,
+becauſe ſuch a Subjection to Man is the Effect of our Obedience we owe to
+God. For God-Almighty has ſo far ſecured our ſubjection, to lawful higher
+Powers, that we are not only peremptorily forbidden to do 'em <pb n="6" facs="tcp:46914:4"/>Violence, or to ſpeak Evil of 'em; but we have Injun<g ref="char:EOLhyphen"/>ctions moreover
+from Heaven, not ſo much as to have a diſreſpectful thought of 'em, and
+not to Curſe them even in our private Reſentments. And indeed, ſince the
+Higher Powers are conſtituted by God's Deſignati<g ref="char:EOLhyphen"/>on, and ſubjected
+immediately to the Great Creatour, it will not appear reaſonable for any Man
+by Rebellion, to endeavour the ſubjection of God's immediate Miniſter, and
+to pull down beneath our ſelves, what Heaven has ſet up next to its Divine
+Majeſty.</p>
+               <p>And tho perhaps a Supreme Power can ſhew no juſt Grounds for
+ſome of it's actions, yet the heigth of the Seat, in which 'tis enthron'd by
+God Almighty, priviledges it from being call'd to an account for ſuch actions
+by any of its Subjects. And therefore <hi>David,</hi> af<g ref="char:EOLhyphen"/>ter all his injuries
+to <hi>
+                     <g ref="char:V">Ʋ</g>riah,</hi> ſaith, Againſt thee only have I ſinned, and done
+this evil in thy Sight. And this he ſays, becauſe God-Almighty, who was
+only above him, had a Rightful Power alone of exacting a Puniſhment of
+him.</p>
+               <p>And this was a Duty men ow'd to God, not only be<g ref="char:EOLhyphen"/>fore the Advent
+of our Saviour; but ſince his coming 'tis an obligation upon them: For our
+Saviour, his Apoſtles, and the Primitive Chriſtians taught it at once and
+pra<g ref="char:EOLhyphen"/>ctic'd it. Their Doctrine was abſolute obedience to the Higher Powers,
+and their Menaces for rebellion and re<g ref="char:EOLhyphen"/>ſiſtance, were no leſs than
+Threats of Damnation. And, moreover, that all future Chriſtians ſhould not
+think the Doctrine of Subjection Trivial, or Temporary, the Apoſtles
+ſubmitted even to thoſe higher Powers, who were foretold to be
+Perſecutors of them and their Religion.</p>
+               <p>The Primitive Chriſtians obey'd the Sentence of Death, even
+when they might have made a prevalent reſiſtance, and Seal'd the horrid
+unlawfulneſs of ſhedding the Blood of Kings, by patiently permitting the
+Spilling of their<pb n="7" facs="tcp:46914:4"/>own. And therefore 'tis impoſſible, that
+a Rebel to his Prince ſhould ever be a good Diſciple to his Saviour, and
+that becauſe he wants one of the great Vertues of Chri<g ref="char:EOLhyphen"/>ſtianity, which is
+meekneſs of Spirit in ſubjection to the higher Powers. And therefore, by
+the way, we may remark, That when Rebellion is ſtirred up upon the ac<g ref="char:EOLhyphen"/>count
+of Religion, Religion cannot be the true and juſt Ground, but only the
+pretended cauſe of ſuch a Rebelli<g ref="char:EOLhyphen"/>on. and it thus frequently comes to
+paſs, when the Ambitious States-man is defeated of his extravagant aimes,
+either by his own ill menage of his affaires, or by the Wiſ<g ref="char:EOLhyphen"/>dom of the
+Prince, he preſently grows enrag'd and diſ<g ref="char:EOLhyphen"/>contented, and being unable to
+ſatisfie his revenge, or re<g ref="char:EOLhyphen"/>trieve his Intereſt but by Rebellion, or too
+proud to do it by a juſt Submiſſion, he preſently contrives how to make
+a Powerful diſturbance in the Kingdom, and finds no way more likely to
+ſucceed, than a pretence of Reli<g ref="char:EOLhyphen"/>gion. And thus like the Man who finding
+himſelf not able to Sleep, reſolv'd his Nighbours ſhould take as lit<g ref="char:EOLhyphen"/>tle
+reſt as himſelf, which he effected by running about the Streets at
+Mid-night, and crying Fire; Thus, I ſay, the diſcontented and reſtleſs
+States-man, rouzes the unintelligent Rabble with a Clamour of Religion, and
+half Frantick himſelf by ſome precedent diſappointment, provokes the
+People to madneſs too. Religion is ſtill the ſpecious Cry, when alas all
+his Religion is either Pride, Intereſt, Revenge for loſt Honour, or a wild
+humour for innovation. For 'tis utterly impoſſible that any Man can have a
+ſerious awe of his Maker, or a Love and Ado<g ref="char:EOLhyphen"/>ration for his Saviour, and yet,
+contrary to the Dictates of Heaven, and the Doctrine of the Bleſſed
+Jeſus, make it his buſineſs to ſpeak evil of Dignities, and diſturb
+the Peace of the Kingdom in which he lives.</p>
+            </div>
+            <div n="2" type="section">
+               <p>II. I Proceed to ſhew, that we owe a ſtrict obedience 
+<pb n="8" facs="tcp:46914:5"/>to the Higher Powers of this Realm. Which is eaſily
+evinc'd, becauſe they are ſuch Powers which are Sove<g ref="char:EOLhyphen"/>reign, and as they are
+abſolutely Supream, ſo ought we to be abſolutely obedient.</p>
+               <p>The Kings of this Realm are ſaid <hi>crimine vacare,</hi>
+be<g ref="char:EOLhyphen"/>cauſe they owe an account of their Offences only to Hea<g ref="char:EOLhyphen"/>ven. They are
+ſaid to be Laws to themſelves; becauſe, tho in the Court of their own
+Conſciences they are oblig'd to reign according to Law, yet they are
+ab<g ref="char:EOLhyphen"/>ſolv'd of all Laws in relation to an earthly Tribunal. The Kings of this
+Realm like thoſe of the <hi>Jews</hi> may do whatſoever they think fit
+without Controlment from the Subject: For ſince they are Gods Lieutenants,
+can they be accountable to any but their Almighty Captain? Since they are Heads
+of the Common-wealth, what Member ſhall call them to Queſtion? and ſince
+they have the ſole power of the Sword, what hand can juſtly draw it without
+their Commiſſion. The Kings of this Realm by vertue their Prerogatives,
+when Laws become ſharp may ſoften them as they pleaſe, and when too cruel
+totally, <hi>pro tempore,</hi> ſuſpend them. To the Pre<g ref="char:EOLhyphen"/>rogative we owe the
+calling of Parliaments, the pro<g ref="char:EOLhyphen"/>roguing of the good, and the diſſolution of
+the bad. To the merciful exerciſe of the Prerogative we owe, that we our
+ſelves ſit every Man under his own Vine, and drink the waters of his own
+Ciſtern: For by the ſame undoubted Rights of Soveraignty, that the King in
+diſ<g ref="char:EOLhyphen"/>penſing with the Laws ſhews the light of his Counte<g ref="char:EOLhyphen"/>nance to ſome
+of his Subjects, by the ſame he may, if he pleaſe, become a Cloud, and
+darkneſs to the reſt: For by the Rights of Supremacy he may do all things
+with<g ref="char:EOLhyphen"/>out Controlment and Coertion: And altho he at any time act, as he may do,
+contrary to the Laws, which himſelf, or his Anceſtors have ratified, yet at
+the ſame time he Acts but according to the natural Laws and<pb n="9" facs="tcp:46914:5"/>Rights of his Prerogative. And indeed if we conſider the Natural Laws
+and Rights of Soveraignty, no Law can be made by a Soveraign, but there muſt
+be this ta<g ref="char:EOLhyphen"/>cit Reſerve in't, <hi>viz.</hi> That it ſhall continue in force
+only ſo long as the Supreme Power thinks it neceſſary and convenient. And
+thus ſince the Kings of this Realm are Supreme, we ought ſtrictly to pay
+them ſuch an hum<g ref="char:EOLhyphen"/>ble Obedience, as may be anſwerable to the greatneſs of
+their Power.</p>
+            </div>
+            <div n="3" type="section">
+               <p>III. I come now to ſhew the reaſonableneſs of our
+Obedience to the King in this preſent juncture of Affairs, that is, why we
+ought to comply, and cooperate with his Majeſty in the repeal of the Teſts
+and Penal Laws, and ſetling a laſting Indulgence in relation to
+Conſci<g ref="char:EOLhyphen"/>ence, for Matters of meer Religion. And this I ſhall evince from
+theſe Eight following conſiderations.</p>
+               <list>
+                  <item>1. From the Nature of Conſcience as to Matters of meer
+Religion.</item>
+                  <item>2. From the Genius of the Chriſtian Religion,
+conſi<g ref="char:EOLhyphen"/>der'd in its firſt Planting and Propagation.</item>
+                  <item>3. From the ill conſequence of Force, and the happy
+Effects of Clemency in affairs of Religion.</item>
+                  <item>4. From the Allegiance and Gratitude we owe-to His
+Majeſty.</item>
+                  <item>5. From the Liberty that is due to the Subject.</item>
+                  <item>6. From the Conſideration of the Intereſt of the
+Church.</item>
+                  <item>7. From the Duties we owe toour Neighbours.</item>
+                  <item>8. From the Kindneſs that is due to our Country.</item>
+               </list>
+               <p n="1">
+                  <hi>Firſt,</hi> From the Nature of Conſcience, as to
+Matters of meer Religion.</p>
+               <p>Now Conſcience in relation to Matters of meer Reli<g ref="char:EOLhyphen"/>gion 
+<pb n="10" facs="tcp:46914:6"/>in the preſent caſe, is a Concluſion of the reaſon.
+ableneſs or unreaſonableneſs of our Belief drawn from Scriptures. Thus
+when Men ſay they cannot believe ſuch a particular point of Divinity, or
+they muſt diſſent from any parricular way of Divine Worſhip; 'tis as
+much as to ſay, that their underſtanding tells them, that ſuch a point of
+Faith, or ſuch a way of Worſhip, is not conſentaneous to the Scripture.
+And when Men ſay, they Believe and Worſhip according to their
+Con<g ref="char:EOLhyphen"/>ſciences, 'tis as much as to ſay, that they do both, be<g ref="char:EOLhyphen"/>cauſe their
+underſtanding concludes, that they act ac<g ref="char:EOLhyphen"/>cording to Gods Word. Thus
+Conſcience in Matters of Belief, is purely an act of the Soul, and ſince
+'tis ſo, 'tis impoſſible it ſhould be forc'd, and the impoſſibility
+of it ought to ſuperſede all endeavonrs towards it. Nay, Conſcience in
+relation to matters of Worſhip, which is the effect only of the former, tho
+you may obſtruct its publick Exerciſe, yet without converting Men into
+Sta<g ref="char:EOLhyphen"/>tues, you can never hinder its private; and therefore when the Peace of the
+Kingdom is concern'd, it ought to be permitted.</p>
+               <p>Beſides, let us conſider, that every Soul is only the
+Em<g ref="char:EOLhyphen"/>pire of Heaven, &amp; God Almighty has ſet Conſcience there, as he has
+plac'd particular Kings in their reſpective King<g ref="char:EOLhyphen"/>doms, &amp; that is, as his
+ſole Vice gerent. Whoſoever there<g ref="char:EOLhyphen"/>fore, violently Fights againſt
+Conſcience, fights againſt Heaven, becauſe he endeavours by undue means
+to ſubject Gods immediate Miniſter. And tho Conſcience, like ſome
+Heathen Kings, prove many times erroneous, becauſe it draws undue
+concluſions from Gods ſacred word; yet it is, like thoſe Emperors, only
+anſwerable to Heaven for ſuch Errors. If it be here Objected, That men
+juſtly ought to be puniſhed, if they will not believe when Scripture is
+rightly Interpreted: I anſwer, That I ſhould have thought, that the Eye of
+Faith is only the Gift of the<pb n="11" facs="tcp:46914:6"/>Lord of Light, and he only can
+incline the Heart who made it; and therefore to pretend to beſtow the Gift of
+God, is to uſurp the Prerogative of Heaven. No, this Gift of God can no more
+be conferr'd by Penal Laws, and taking away Money, than that which
+<hi>Simon</hi> hop'd to enjoy by giving money; Heaven never opens the
+underſtanding by unlocking the Cheſt: nor does it prick and wound the
+Conſcience by mangling an Eſtate and ruining the poſſeſſor. But,
+ſome ſay, Diſſenters are not puniſh'd as religious and
+conſcientious, but for their diſobedience to the Laws of the Nation: But
+this Fallacy is ſo palpable, that 'tis eaſily ſolv'd by asking one plain
+Queſtion, <hi>viz.</hi> Why were thoſe Laws made? And the anſwer muſt
+be, that the Spring which firſt mov'd their debate, was Religion, and the end
+for which they were made, was, that a religious Uniformity might be obſerv'd
+by all the Subjects of this Realm; ſo that whoſoever is puniſhed by the
+force of thoſe Laws, whoſe ſource is from, and whoſe ends are for
+Religion, is really puniſh'd as religious, and if he ſuffer not beſides
+as an evil doer, his puniſhment is unjuſt. For in ſuch a Puniſh<g ref="char:EOLhyphen"/>ment
+the Body ſuffers, becauſe the Soul is not of the ſame ſtamp with that
+of his Neighbour; and for the ſame reaſon a Man may be laſh'd, becauſe
+he has not as an agreeable a Face as thoſe that liv'd around him: for neither
+his Face nor his Soul were of his own faſhioning. Thus force is moſt
+improper in relation to Conſcience, not on<g ref="char:EOLhyphen"/>ly becauſe it ought not, but
+becauſe it cannot effect what is deſign'd by it. Force applyed for the
+Errors of the Mind, is like pulling a String for the untying of a Knot, your
+ſtreſs only ſerves to make it the faſter. By undue preſſure, you
+ſhut the Box cloſer, which you de<g ref="char:EOLhyphen"/>ſign to open; and too much heat
+contracts the thing it ſhould dilate. And therefore ſince Violence has been
+ineffectual, the King is pleas'd to propoſe a ſofter method
+<pb n="12" facs="tcp:46914:7"/>for the Peace of his Subjects. Since Conſcience can't
+conform to the Laws already made, His Majeſty propoſes Laws that may
+conform to the Conſcience. And ſince a Kings Propoſals are Virtually his
+Commands, every good Subject will not only be oblig'd by his reaſon, but by
+his allegiance, to contribute what in him lyes towards the repealing of thoſe
+Laws, which are ſo uneaſie to the King, and the Burthen of the Kingdom.</p>
+               <p n="2">
+                  <hi>Secondly,</hi> 'Twill appear reaſonable to comply
+with His Majeſty in the Repeal of the Teſt and Penal Laws, from the Genius
+of the Chriſtian Religion, and that conſider'd in its firſt planting or
+its propagation.</p>
+               <p>Our Saviour choſe rather to make his approach to Man-kind in
+the Form of a Servant, than of a Trium<g ref="char:EOLhyphen"/>phant Monarch: and the reaſon may be
+aſſign'd, Becauſe if the Chriſtian religion had aſſaulted Men with
+violent Power, it had perſwaded them that it contain'd ſome ſe<g ref="char:EOLhyphen"/>cret
+weakneſs, and the World would have conjectured that That Piety was a meer
+impoſture which required ſo much Tyranny for it's Eſtabliſhment, By
+force, in<g ref="char:EOLhyphen"/>deed, Chriſt might have Conquer'd, but not with that only have
+converted the World; and his rigour might have regulated the Body, but never
+put any influence up<g ref="char:EOLhyphen"/>on the Soul. He therefore choſe to plant his religion
+rather by Doctrine, than by the Sword; by his own meek Mouth, rather than by
+loud Clamours of War, and to give life to thoſe who were dead in
+Treſpaſſes and Sins, by living and dying innocently himſelf. And by
+this gentle Method as the Church was planted; ſo by the ſame only it
+thriv'd, it grew when it was moiſtened with the Blood of its Members, but
+fell when it ſelf ſhed the Blood of Diſſenters; it increas'd when its
+Votaries fell a Sacrifice to the Heathen Penal Statutes, but decay'd apace,
+when by vertue of her own Penal Laws ſhe turn'd the Sacrificer, and the
+Eccleſiaſtick Ark that ſail'd ſecure<pb n="13" facs="tcp:46914:7"/>when ſtorms
+were rais'd for ruin by <hi>Pagan</hi> Perſecutors, was always wrack'd, and
+that without pity, when it ſelf had rais'd the Hurricane for Perſecution:
+For when all around cry Peace, Peace, a Laſting Peace, none ſcarce<g ref="char:EOLhyphen"/>ly will
+compaſſionate the defeat, if, in ſpite of all, a Man makes himſelf
+ready for Battel; eſpecially when by love &amp; peace only as the Victory
+may, ſo it ought to be obtain<g ref="char:EOLhyphen"/>ed. And indeed whoſoever endeaveurs to get it
+by other means, are ſtill ſuſpected to be in the wrong, and all
+con<g ref="char:EOLhyphen"/>clude, that the beſt deciding Argument for what they pro<g ref="char:EOLhyphen"/>feſs, is only
+the ſharp Sword which they draw.</p>
+               <p>And moreover, ſuppoſe the ſuffering Parties to be what you
+will, yet the Sanguinary Method muſt be unrea<g ref="char:EOLhyphen"/>ſonable. For if they ſhould
+be in the right, they ſuffer as Martyrs, and you are guilty of their Blood;
+if in the wrong, your Violence makes them eſteem their wrong juſt, and ſo
+they dye to go to Hell, who might have lived by a gentle way of
+Demonſtration, have ſeen their Er<g ref="char:EOLhyphen"/>rors, and riſe at laſt to Heaven. If
+then we conſider the Genius of Chriſtianity, we muſt not take up the
+Teſts and Penall Laws, but the meekneſs of the Croſs, to be the true
+followers of our Lord and Maſter; For whoſo<g ref="char:EOLhyphen"/>ever pretends otherwiſe to
+follow the Lamb, follows him only as a roaring Lyon, and endeavours to tear and
+devour that Flock which he dyed to protect.</p>
+               <p>But ſuppoſe, ſay ſome, that Men Blaſpheme; have their
+Hands in Blood, Vitiate the Virgin, Raviſh the Wife, and commit all Villany,
+and that out of Principles of Religion, ſhould not Penal Laws be made and
+Executed againſt ſuch? I Anſwer, Yes, by all means, let all ſuch be
+ſeverely puniſh'd. He that ſheds Mans Blood out of a Principle of
+Religion, by Man let his Blood be ſhed. Let the Sword cut off thoſe who
+ſin againſt the Unwritten Laws of God, and let the Darkneſs of Death be a
+Recom<g ref="char:EOLhyphen"/>pence for thoſe who dare to Tranſgreſs againſt Natures 
+<pb n="14" facs="tcp:46914:8"/>apparent Light. But, in the mean time, let no Man for<g ref="char:EOLhyphen"/>feit
+his Head for the Frail Error of his Brain, let no Mans Breath be ſtopp'd by
+Law, becauſe he does not rightly open a Text in the Goſpel, and ſince no
+man ſhall be Damn'd for his meer opinion in the next World, let him not be
+made miſerable for it in this.</p>
+               <p>But for the Sake of Chriſt's Religion, muſt not Error be
+Penally puniſh'd, the falſe Religion chaſtis'd, and Anti<g ref="char:EOLhyphen"/>chriſt
+unſeated? I Anſwer, By the ſame Rule every Church muſt fall foul upon
+her Siſter, and becauſe ſhe would think her ſelf a <hi>Rachel,</hi> not
+only conclude, but en<g ref="char:EOLhyphen"/>deavour to make her Neighbour the Blear-ey'd
+<hi>Leah:</hi> For every particular one is apt to Stigmatize the reſt by the
+Name of Antichriſt, to declare it in the wrong, and avow it ſelf only in
+the right; it thinks like ſome impe<g ref="char:EOLhyphen"/>rious School-maſter, it ought to have
+the ſole power of the Rod, and triumphantly above all others to be exemp<g ref="char:EOLhyphen"/>ted
+from the Terror of the Laſh. And ſo conſequently the pulling down
+Antichriſt, muſt dethrone Kings, de<g ref="char:EOLhyphen"/>populate Nations, and ruin the
+Chriſtian World. If we pretend to be inſpired with the true Genius of
+Chri<g ref="char:EOLhyphen"/>ſtianity, let us not pretend to fear Fire and Fagot our ſelves, and at
+the ſame time heap Coals of Fire upon the Heads of our Brethren; let us not
+ſeem ro dread the Ru<g ref="char:EOLhyphen"/>brick of a Maſſacre to our own Perſons, and at the
+ſame time take all imaginable care for the Slaughter of others; nor let us,
+leſt <hi>Smithfield</hi> ſhould be in a Blaze by Popery, ſet the whole
+Nation in a Flame by Proteſtancy: For this is, whilſt we condemn the
+Crimſon Dye in others, to wear the Bloody Colours our ſelves, and whilſt
+we blame the Diſſenter for not being as white as Snow, 'tis at the ſame
+inſtant to put on the guilty Bluſh of the Scarlet No, let the cool
+ſedateneſs of primitive Chriſtianity control the growing heats of
+Sedition; inſtead of Halters, let us meditate only the gentle Bonds of Peace;
+inſtead of Im<g ref="char:EOLhyphen"/>priſoning<pb n="15" facs="tcp:46914:8"/>our Neighbours, let us put
+religious reſtraints upon our imperious deſires, inſtead of Levying Fines
+for Religions ſake on Earth, let us by Acts of Love ſecure a Treaſure in
+Heaven; And let Charity be what it really ought to be, the true and a chief
+Teſt of the Chriſtian Religion. Such was the Spirit of pure Chriſtianity,
+when all Pride, Envy, and Intereſt were Sacrific'd to the Chri<g ref="char:EOLhyphen"/>ſtian Peace;
+Then, when <hi>St. Chryſoſtom</hi> would rather part with an
+Arch-Biſhoprick, then ruin the Tranquil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity of the Church, when one Father relinquiſh'd the See of
+<hi>Conſtantinople;</hi> to avoid an approaching diviſion, when <hi>Clemens
+Romanus</hi> forſook the Wealth and Honour of the Chair of <hi>Rome,</hi>
+rather than foment ariſing Differences, when <hi>Exile</hi> was more Eligible
+with Peace, then ſhining greatneſs without it, when private intereſt and
+ſafety threw 'em ſelves away, like <hi>Jonah,</hi> to prevent a publick
+ruin, and when Chriſtians like that Prophet were more ready to endure the
+ſtorm themſelves, than to main<g ref="char:EOLhyphen"/>tain it, tho with their own ſecurity, to
+the Detriment of others.</p>
+               <p n="3">
+                  <hi>Thirdly,</hi> 'Twill appear reaſonable to comply
+with the King in the repeal of the Teſts and Penall Laws, from the
+conſideration of the ill conſequence of force, and the happy Effects of
+Clemency in Matters of Religion.</p>
+               <p>1. We have known that the Fights for Religion were in the late
+time but ſo many Battels againſt it. Atheiſm and Schiſm ſprang up
+with a greater Luxuriancy, and Fa<g ref="char:EOLhyphen"/>ction grew double like an <hi>Hydras</hi>'s
+Head, by cutting off of the Conſcientious. The force that has been us'd in
+former Ages againſt Perſons for Conſcience and meer Religion, hath been
+ſo ſiniſtrouſly prevalent, as to ſhake Eſtabliſh'd Kingdoms, to
+Degrade Royal Palaces into Receſſes of Murtherers, and Conver<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gods Houſe of Prayer into a Den of
+Thieves. What confuſion has not force for Religion introduc'd? A Throne has
+been chang'd <pb n="16" facs="tcp:46914:9"/>into a Scaffold, a Royal Court into a
+Slaughter-houſe, and the ignoble Shrub exalted into the place of the
+Hea<g ref="char:EOLhyphen"/>venly Cedar. Hath not the Veil of our Temple been Rent from the Top to the
+Bottom, our Churches ren<g ref="char:EOLhyphen"/>der'd as poor as the Beggars which uſually attend
+their Gates, and the Altar it ſelf made a Sacrilegious Sacri<g ref="char:EOLhyphen"/>fice? Our
+Mountains have been made to reſemble <hi>Calvary;</hi> each Field almoſt
+has been turn'd into an <hi>Aceldama,</hi> and our Rivers like thoſe of
+<hi>Egypt</hi> convertrd into Blood. Nor have the very Dead been ſpar'd,
+Graves have been rifled, Sepulchres deſpoil'd, and Tombs ſtripp'd and
+ruined, as if the deceaſed had been guilty of Ceremonies, becauſe they were
+adorn'd with an Eſcutcheon and a Monument. Have not our Rocks reſounded
+with the dying Groans of the Wounded? Have not our Houſes Echo'd with Widdows
+ſighs, and bereaved Parents Moans? And hath not ev'ry Pavement almoſt
+flow'd with the Tears of the Weeping Virgin, and the diſtreſſed Orphan?
+And did not the Church of <hi>England</hi> expire with the loſs and death of
+her Martyr'd Head? Nor hath ſeverity for matters of meer Religion had any
+good ſucceſs ſince the Reſtau<g ref="char:EOLhyphen"/>ration of his Late Majeſty. For 'tis
+too well known that the Penal Laws deſtroy'd that very Unity and Uni<g ref="char:EOLhyphen"/>formity
+which they were deſign'd to preſerve; They drove whole Multitudes from that
+Church to which they ſhould have drawn 'em, and the Excommunication from the
+Congregation very often prov'd an Extermi<g ref="char:EOLhyphen"/>nation out of the Kingdom. Nor can it
+be otherwiſe, for (as I intimated before) Divine Love is no more obtaina<g ref="char:EOLhyphen"/>ble
+by force, than humane Affection: The Conſcience, like Wax, grows ſtill more
+ſtubborn by the coldneſs of its uſage, and nothing can ſo well bend the
+Spirit of Man, as the ſoft Whiſpers of the Holy Ghoſt.</p>
+               <p>Since His Majeſty therefore has been pleas'd to Grant an
+Indulgence, let us, like the good <hi>Samaritan,</hi> inſtead of 
+<pb n="9" facs="tcp:46914:9"/>the Corroſive Method, pour Oyl and Wine into the Wounds of
+our bleeding Neighbours. Let me not be the unfriendly Prieſt, or uncharitable
+Levite, to paſs regard<g ref="char:EOLhyphen"/>leſs by my Brethren, who like the Man going from
+<hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> to <hi>Jerico</hi> are fall'n among Thieves, ſtripp'd
+and left half dead. No, let us have compaſſion on them, bind up their
+gaping Wounds, and inſtead of Levying Money for their ruin, contribute a far
+greater Summ than the <hi>Samaritans</hi> Two pence for their recovery. This
+way our Bleſſed Saviour, this the Apoſtles, this the Primitive
+Chriſtians took; by meekneſs and ſuffering for Religion, they won the
+Hearts of the World to it; they us'd no Sword but that of the Spirit, but brake
+the Flinty Hearts of the Heathen by the ſoft and downy Methods of the
+Goſpel. Can we imagine that the way for our Brethren to hear our winning
+Arguments, is to baniſh 'em our Converſation, to give occaſion of a
+Voluntary Exile that they may become good Subjects, and to exalt our ſelves
+againſt them, that they may ſee our meekneſs in Chriſt? No; the Bonds
+which bind the Diſſenter ſerve too but to confirm his diſſention:
+ſtripes, indeed, may ſoften his Fleſh, but never mollifie his Spirit, and
+the Penal Laws, which violently open his Purſe, will ſerve but more
+cloſely to tye him up, and oblige him to ſtick to his opinion. The way to
+convice the Papiſt, that there is no Tranſubſtantiation in the
+Euchariſt, is not to force him to experience a fatal change in his Eſtate;
+the way to demonſtrate that there is only a bare poſſibility for him of
+going to Heaven, is not to compel him to feel that 'tis impoſſible he
+ſhould live upon Earth; nor is the ty<g ref="char:EOLhyphen"/>ing him up from ſerving his King any
+good Method to evince, that he does not rightly worſhip his Maker. The light
+of the Spirit grew ſtill more hot and zealous by be<g ref="char:EOLhyphen"/>ing Dark-lanthorn'd in a
+Dungeon; the Goal that re<g ref="char:EOLhyphen"/>due'd the Non-conformiſt almoſt to rottenneſs,
+could ne<g ref="char:EOLhyphen"/>ver<pb n="18" facs="tcp:46914:10"/>yet mellow him into compliance, and the
+reduction of a Conventicler to a Morſel of Bread, never made him one jot the
+leſs in love with the Barn. 'Tis not difference in, but the Penalties for
+opinion, that infringes the Chri<g ref="char:EOLhyphen"/>ſtian Love and Charity: The Perſon
+ſuffering envies his Neighbour that lives at eaſe, hates the inſulting
+Party, and murmurs againſt the Fountain of his preſſure. For Love and
+Stripes are conſiſtent to no Nature but of a Spaniel, and tho an
+irreſiſtable force may procure quiet, yet it never can beget a laſting
+peace. Moſt men like Steel ſprings, tho they violently ſtand bent, yet
+they have a ſtrong aptitude of coming into their places, like Bows they will
+break the ſtring that crooks 'em, and will be humble no longer than the
+preſſure of their Chaines make 'em ſo.</p>
+               <p>But now kindneſs ſmooths the Furrows which the Iron Teſts
+and Penal Laws had deeply plowed, ſweetens the Vinegar and Gall which harſh
+mulcts, fines and confiſcations had gencrated, and wins ſo upon all thoſe
+who have the leaſt Generoſity in their Natures, that they who would
+paſſively have dyed under an oppreſſor, will dye for him when he
+appears and becomes merciful. Cle<g ref="char:EOLhyphen"/>mency makes the Loyal Cement ſtick, which
+the rough<g ref="char:EOLhyphen"/>neſs of ſeverity would probably have fretted off; 'tis the great
+Elixir of a State, which muſt probably Tranſ<g ref="char:EOLhyphen"/>mute every Subject into the
+golden temper of Loyalty, and ferment the whole Nation into the decent Craſis
+of a willing obedience: For all true Sons of the Common-wealth muſt ſurely
+be pleaſed, when they perceive the King is not at all confin'd to one Party,
+that he has Bleſ<g ref="char:EOLhyphen"/>ſings in ſtore for more than one of his Children, that
+he will ſuffer no rapacious Excreſcence in the Body Politick, to draw the
+whole Nutriment from the uſeful Members, but that Gods Vice-gerent is ſuch,
+that, like God him<g ref="char:EOLhyphen"/>ſelf, with him there is no reſpect of Perſons, but
+every<pb n="19" facs="tcp:46914:10"/>one of every profeſſion that feareth God is
+accepted with him.</p>
+               <p>I he fatal conſequence of the contrary to this, no man can be
+ignorant of, but muſt know that oppreſſed Parties have grown cloſer by
+the weight of their Affliction, and and their Stripes have been able to beat
+'em into the ſolid conſiſtence of a confederacy: For many Men, tho never
+ſo daſtardly before, yet when preſs'd and coop'd up, have been apt to
+turn again upon the Government, and when they have been run as it were to the
+Wall, they have thought it extreamly lawful to draw upon the adverſe Party.
+Whereas give but their religious Zeal room enough, tho never ſo fiery, like
+Lightning in open Air, it does no harm, but ſtopp'd, it melts the
+obſtructing Sword, and ſhatters the oppoſing Oak; and that current of
+Conſcience, which at liberty calmly ſlides along, when 'tis once damn'd up,
+has grown impatient, ruin'd its Bars, and delug'd the adjoyning guiltleſs
+Neighbour-hood. So that as thoſe undue reſtrictions have overturn'd
+Governments, their Relaxation is moſt likely to ſet 'em upright and
+preſerve 'em: For if a Kingdom be compar'd to a Ship, we may conclude, that
+by taking in an over-ballaſt of Teſts ſhe may probably ſink, and
+inſiſting too much on Penal Laws, ſhe may eaſily over-ſet. And
+therefore let us comply with His Sacred Majeſty in taking 'em away, and not
+let our Eyes be ſo dazled with the falſe Luſtre of private Intereſt, as
+not to ſee, or our Faces ſo exalted with Pride, as to over-look in this our
+Day the things that belong to our Nations Peace. By ſuch a Lenity Faction
+will be ruin'd; and one mighty advantage that ſuch a Liberty will more<g ref="char:EOLhyphen"/>over
+procure, is the Separation of the Sheep from the Goats, the diſtinction of
+the unconvertible Rebel from the Honeſt Man; for when all have Liberty to
+ſeparate like conſiſtent Heterogeneous Bodies in a large quantity of
+Liquor, every one will take his natural place, and he<pb n="12" facs="tcp:46914:11"/>that
+runs may read, who are Diſſenters for Rebellion, and who the well meaning
+Separatiſt for Conſcience ſake.</p>
+               <p n="4">
+                  <hi>Fourthly,</hi> From the conſideration of the
+Allegiance and Gratitude we owe to His Majeſty, we ought to com<g ref="char:EOLhyphen"/>ply with the
+King in the Repeal of the Teſts and Penal Laws.</p>
+               <p>The King, who is the Supream Law, is ſo gracious as to
+endeavour to have all uneaſie Laws made void; who<g ref="char:EOLhyphen"/>ſoever therefore is ſo
+turbulent as to obſtruct the Halcion<g ref="char:EOLhyphen"/>days deſigned, may be eſteemed
+little leſs than doubly rebellious; for he not only contradicts his
+Majeſties incli<g ref="char:EOLhyphen"/>nations, which ſhould have with all Loyal Subjects the
+force of Commands, but he likewiſe ſo far encroacheth upon the Prerogative
+of Heaven it ſelf, as to purſue the ſuppoſed Tranſgreſſions of
+his Fellow Subjects, ev'n be<g ref="char:EOLhyphen"/>yond the Third and Fourth Generation, for of
+ſuch an extent is the deſigned ſeverity of the Penal Laws and
+Teſts.</p>
+               <p>Nor let any man ſay, that he does not obſtruct his
+Majeſtie's Inclination, becauſe he takes up no Arms againſt him: For if
+Adultery may be committed in the Heart, Rebellion may be ſo too. You may Stab
+your Prince with a Traiterous Thought; 'tis poſſible to be a Regicide by
+the Two-edged Sword which proceeds out of a Malicious Mouth; yea, a Smile and
+Complaiſant Carriage, at the hearing of a Seditious Diſcourſe, is no
+leſs then Treaſon in the ſight of God-Almighty: And to pray for the
+Deſtruction of my Prince, is not only to Levy War upon Earth, but to
+endeavour to Arm Heaven againſt him too, and to inſtruct the great Creator
+in that Vengeance which is alone his Perogative, as well how and when, as where
+and of whom to take. And thus he that even for Religions ſake ſhoots out
+his Ar<g ref="char:EOLhyphen"/>rows, even bitter Words, is as diſobedient, as he that 
+<pb n="5" facs="tcp:46914:11"/>throws a Javelin; and to unſheath a Pen againſt his
+Prince, makes a Man in common Sence as great Rebel, as he that draws his Sword.
+And therefore ſince to think write or ſpeak diſloyally upon the account
+of our Reli<g ref="char:EOLhyphen"/>on, is certainly reſiſtance for it, and ſince reſiſtance
+for it is equally as damning as the denyal of it: Let every Man conclude, that
+he can't lift up even his Soul againſt his Prince, but 'tis in God's account
+the ſame thing as liſting up his Hand againſt him, and againſt Heaven
+it ſelf too, for which, without ſound Repentance, he muſt expect certain
+Damnation. Let none therefore by diſ<g ref="char:EOLhyphen"/>loyal Zeal force up the ill Seeds of
+unquietneſs and diſſa<g ref="char:EOLhyphen"/>tisfaction: Let none ſit ſullenly in cloſe
+Cabals, to Hatch the Cockatrice of Jealouſies and Fears; nor let their Blood
+boyl up in Paſſion againſt the approaching Peace of their Fellow
+Subjects: For whoſoever do ſo, will declare themſelves to be no leſs
+than Antichriſtians, Friends of the Father of Lies, and to owe their
+Sangui<g ref="char:EOLhyphen"/>nary Cruelty to him only, who was a Murtherer from the Beginning.</p>
+               <p>But can we be diſloyal, ſay ſome, if we are for keep<g ref="char:EOLhyphen"/>ing
+up the Laws and the Government by Law Eſta<g ref="char:EOLhyphen"/>bliſh'd? Yes certainly, I
+anſwer, for you cannot be Loyal, unleſs you pay true Allegiance, which is
+not payed unleſs you obey your King, and that actively, in all thoſe his
+commands and deſires, which are not contra<g ref="char:EOLhyphen"/>dictory to the will of God. Now
+when the King deſires you to ſend ſuch men to Parliament, that may repeal
+the Penal Laws and Teſts, He deſires nothing but what is the Duty of every
+Free-holder to do; who ought to chooſe ſuch men that may as well repeal Old
+Laws that are be<g ref="char:EOLhyphen"/>come grievous, as contribute to the making of New Ones, that
+may be more eaſie. The Government by Law Eſtabliſh'd, is ſo
+Eſtabliſh'd <hi>pro tempore,</hi> for the <hi>bene eſſe</hi> of the
+Kingdom; and when it ceaſes to be ſo,<pb n="22" facs="tcp:46914:12"/>all ought to
+concurr, that by another Law the grievous Statutes might be
+diſ-eſtabliſhed; for ſuch Statutes are and ought to be mutable
+according to the various Face of Affairs. The ſame Remedy even for the ſame
+Diſtem<g ref="char:EOLhyphen"/>per, will not alway prove effectual. I ſay therefore, to thoſe who
+inſiſt ſo much upon the Law, that 'tis poſſi<g ref="char:EOLhyphen"/>ble that thoſe Laws
+which were made for us, and pleas'd us one Year, may not be for us but
+diſſatisfie us the next; and miſerable ſurely would it be for this
+Kingdom, if the Supream Power were not upon all occaſions a Diſ<g ref="char:EOLhyphen"/>penſing
+one too.</p>
+               <p>I might urge againſt the Validity of the Teſt, that the
+Kings Concurrence being rather forc'd than voluntarily had, it muſt
+neceſſarily want the Eſſential Form of a Law. But 'tis certain, that
+ſuch Acts as tend to leſſen the Kings Pretogative, are adjudg'd void in
+themſelves, tho made by the Kings conſent. And what can be more againſt
+His Prerogative, than thoſe Teſts which would deprive him of that Liberty,
+which even ev'ry Country Farmer enjoys, <hi>viz.</hi> the Power of chooſing
+his Servants and his Counſellors? To alot a Prince his Counſellors, is like
+aſſigning him Tutors, and little leſs than to pretend to Govern him. To
+preſerve his perſon by ſuch means, looks like its Impriſonment; and to
+exclude all but our ſelves from being rais'd by him, what is it but
+unjuſt<g ref="char:EOLhyphen"/>ly to defraud our honeſt Engliſh Neighbour, to exalt our ſelves
+againſt our Brethren, and Laviſhly to impoſe upon the Royal Prerogative?
+If by former Acts of Par<g ref="char:EOLhyphen"/>liament, none ought to have a Coercive Power over the
+Perſons of the Kings of this Realm, what ſhall we think of thoſe, who
+endeavour their utmoſt to make His Majeſty do what they pleaſe? If to be
+adherent to the Kings Enemies, to give 'em aid and comfort, be Trea<g ref="char:EOLhyphen"/>ſon; what
+are thoſe Men who adhere to them whom His Majeſty eſteems his Enemies,
+aid 'em with invectives<pb n="23" facs="tcp:46914:12"/>againſt thoſe he accounts his
+Friends, and comfort them with the hopes and proſpect of a ſudden
+Revolution? By which they muſt tacitly own, that it is lawful to be
+Rebellious in preſent, that they may be Loyal in Rever<g ref="char:EOLhyphen"/>ſion. If to remove
+the Kings Counſellors, to aſſign His Majeſty Methods for the
+diſpoſition of his Forces, of which he had the ſole Supream Government,
+Command and Diſpoſition, be like Overtures to Rebellion; the Teſt cannot
+be altogether guiltleſs, which aims at the ſame things. And whatſoever
+may be Harang'd, the contrary to abridge the Kings power in granting
+Com<g ref="char:EOLhyphen"/>miſſions, and chooſing his Counſellours, is no leſs than to cut
+ſhort the Prerogative.</p>
+               <p n="5">
+                  <hi>Fifthly,</hi> We ought to comply with his Majeſty in
+the repeal of the Teſts and Penal Laws, if we conſider the Liberty of the
+Subject.</p>
+               <p>As we are Born Engliſh Men, we are born Subjects to the lawful
+Kings of this Realm, and being ſo, we are born to all the Priviledges of
+Subjects too, and have a right to all the Liberty and Property which Subjects
+in our ſtations are capable of, and no Act of Parliament for meer Religion
+ought to abridge us of thoſe Native Rights, nor can any Law juſtly take 'em
+from us, till we forfeit 'em by the Tranſgreſſion of the Laws of Nature,
+and thoſe other primitive conſtitutions of the Govern<g ref="char:EOLhyphen"/>ment. For the Rights
+of the Members of Civil Govern<g ref="char:EOLhyphen"/>ment were unalterably ſuch before the Faith of
+our Sa<g ref="char:EOLhyphen"/>viour was receiv'd in the World, and therefore unleſs God had revealed
+it to the contrary, 'tis impoſſible ſuch rights ſhould be deſtroyed
+by the Reception of out Sa<g ref="char:EOLhyphen"/>viours Religion, and there being no ſuch
+Revelation, they muſt ſtand ſtill inviolable; and ſo ſtand, that
+neither the Chriſtian Religion ſhould have any direct influence upon them,
+nor they on the contrary upon the Chriſtians as ſuch, ſince they
+originally were and<pb n="8" facs="tcp:46914:13"/>ought ſtill to be harmleſly apart.
+And hence 'tis poſ<g ref="char:EOLhyphen"/>ſible for a <hi>Turk</hi> or a <hi>Jew</hi> to be a good
+Subject to a Chri<g ref="char:EOLhyphen"/>ſtian King.</p>
+               <p>Now therefore, if Religion be ſo different from the Civil
+Government, as it ought not upon its own account to Rob the Members of ſuch
+Government of their Civil Rights and Priviledges; 'twill then follow, That the
+Teſts are very unreaſonable, which upon the account of meer Religion, rob
+the Subjects of thoſe Liberties and Rights: For my Right as an Engliſh Free
+holder en<g ref="char:EOLhyphen"/>ables me to chooſe whom I think fit to repreſent me in
+Parliament, but the Teſt diſables me from it, and tells me, that unleſs I
+chooſe whom it ſelf only thinks fit, 'twill make my choice vain. The Laws
+tell me, tho a Man can't be apparently Born to the Bar or Pulpit, yet he may be
+ſo Born to the Rights of Peerage, and if not Born, he may be made a Peer, and
+either way have a ſufficient Title to thoſe Priviledges: But the
+Ca<g ref="char:EOLhyphen"/>ſuiſtical Teſt ſays, No Rights of Peerage without Prote<g ref="char:EOLhyphen"/>ſtanoy, No
+Rights of Blood without rightly believing that of our Saviour; nor any Seat in
+the Houſe of Lords, if I adhere to the Chair of <hi>Rome.</hi> My Birth-right
+tells me. I'm Born in a Capacity of my Soveraign's Favour, of meriting Rewards
+from his Hand, and ſo conſequently in a poſſibility of advancing my
+Station; But the pre<g ref="char:EOLhyphen"/>deſtinating Teſt ſaith gruffly and ſeverely, No;
+There is an irreſiſtable Decree of Reprobation gone out againſt you, Red
+Letters have certainly mark'd you for bloody Perdition in this World; and
+deprives the Papiſt even of Ability of doing a good Work; or if 'tis
+poſſible for him to do Ten Millions, yet the vaſt heap ſhall not be
+able to make the leaſt Step to advance him one Inch towards the happineſs
+of this Life. The Teſt ſavagely determines, tho the Papiſt has the
+Fidelity of an unfall'n Angel, the King ſhall never truſt him; tho the
+Valour<pb n="25" facs="tcp:46914:13"/>of <hi>Achilles,</hi> his Prince ſhan't give him a
+Commiſſion; and tho' he had the Wiſdom of <hi>Solomon,</hi> yet he
+ſhan't come near to adviſe him. What can be more inhumane, what more
+barbarous, than to rob our Brethren at once of their Birthright and their
+Bleſſing, and to ruine them on Earth, becauſe they take another way of
+going to Heaven? As if the Sacramental Bread were deſign'd to rob Men of
+their vital Morſel: As if the Cup of Bleſ<g ref="char:EOLhyphen"/>ſing in order to the next Life,
+was inſtituted for Man<g ref="char:EOLhyphen"/>kinds Curſe in this, and the Blood of the
+Bleſſed Jeſus flow'd to deſtroy thoſe whom 'twas mercifully ſhed to
+ſave!</p>
+               <p>What makes the vaſt difference between the Papiſt and other
+Diſſenters, and us? Are ſome of us Loyal? So are ſome of them. Are we
+able to adviſe His Maje<g ref="char:EOLhyphen"/>ſty? They have an equal, if not a tranſcendent
+Talent that way: Do we deſerve Preferment, and not they? It lies in the
+King's Breaſt which Party merits moſt. Have ſome of us been conſpicuous
+for our Allegiance? They are our Equals. Have ſome of their Religion been
+fatal to Kings? So have ſome of ours. Have they been Plotters? So have we.
+Have we been inſtrumental in preſerving this King? They were ſo for the
+Safety of the laſt. Did Men of another Communion bring the Royal Martyr to
+the Block? Many of our Church began the fatal Quarrel. Have they been
+ſanguineouſly cruel of late? Lo! by keeping up the Teſts we are ſo now.
+Our Reputation is checker'd, as well as theirs; the Proportion of the Black and
+the White of Vice and Vertue ſtands equal in either: we have all been faulty,
+we have all gone out of the way. Let us then return, by being cha<g ref="char:EOLhyphen"/>ritable to
+each other, and obedient to His Majeſty.</p>
+               <p>If it be here objected, That the Diſſenters Principles are
+inconſiſtent with Government: Who is better able to judge of that, than He
+that ſits at the Helm? If it be<pb n="26" facs="tcp:46914:14"/>ſaid, That their
+Religion is inconſiſtent with the true Worſhip of God: Charity would
+believe, were they convinc'd of it, they would ſoon retract their Error, And
+ſince every one of us aims at one eternal End, ſince we all own one God and
+one Lord Jeſus Chriſt, Charity would believe a poſſibility of attaining
+the End, tho' in the uſe of different Ways. The Arrow that is ſhot
+Com<g ref="char:EOLhyphen"/>paſs may as certainly hit the White, as that which is directed
+ſtraight. The ſame City may be as ſurely en<g ref="char:EOLhyphen"/>tred by him that walks o're a
+Mountain, or through a Deſert or a Wood to it, as by another that trave's
+o're the ſtraight and even Valley. And Charity would be<g ref="char:EOLhyphen"/>lieve, that the Crown
+of Heaven might poſſibly be ob<g ref="char:EOLhyphen"/>tain'd by the round-about Runner, as
+ſurely as by him that thinks he more advantageouſly caſts his Ground;
+eſpecially if we believe a poſſibility of the Salvation of the Apoſtles
+before they believed the Doctrine of the Reſurrection.</p>
+               <p>But ſuppoſe the Errors of our Brethren were never ſo
+inconſiſtent with Government; once more I muſt ob<g ref="char:EOLhyphen"/>ſerve, That a rough
+Method is not probable to convert 'em: For Converſion is uſually wrought by
+the ſofteſt means: The Mildneſs of the Converter is moſt apt to melt
+the Soul of the Erroneous; he muſt be ſoftned be<g ref="char:EOLhyphen"/>fore he can take a new
+Impreſſion; and by the gentle warmth of Love be made to relent, before he
+can be in a capacity of being caſt into a new Form: And there<g ref="char:EOLhyphen"/>fore the
+Froſt and Horror of the Teſt muſt be very un<g ref="char:EOLhyphen"/>ſuitable for this
+purpoſe.</p>
+               <p n="6">
+                  <hi>Sixthly,</hi> We ought ot comply with the King in the
+Repeal of the Teſts and Penal Laws, if we conſider the Intereſt of the
+Church.</p>
+               <p>There are none that are truly of the Church of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but are for the Doctrine of Paſſive Obedience; and if
+ſo, they muſt grant, that the National eſtabliſh'd<pb n="27" facs="tcp:46914:14"/>Church can be no longer ſuch than the Supreme Power will have it
+ſo: And therefore the Church of <hi>England</hi> ought to pleaſe the King,
+if ſhe would her ſelf be longer pleas'd in her Eſtabliſhment. She ought
+not imperiouſly to think her Station infallibly unprecarious, nor rudely to
+queſtion the King's Word, but reverently to obey his juſt Deſires. How
+extremely ill do's it look to queſtion the Word of a King, and of ſuch a
+King too? I'm ſure, if ſhe had given her Word for the performance of any
+thing, and its Veracity ſhould be doubted, ſhe would think ſhe had good
+reaſon to be deſparately diſpleaſed. And therefore ſhe not doing in
+this Particular as ſhe would be done by, ſhe may give occaſion to be
+rewarded by her own Meaſures; and if ſhe perſiſts to queſtion the
+King's Word, the King may juſtly ſuſpect her Loyalty. When the King has
+given his Royal Word for my Secu<g ref="char:EOLhyphen"/>rity, if I then ſhould doubt my Safety, I
+may be ad<g ref="char:EOLhyphen"/>judg'd by no means to deſerve it. Not to rely upon my Prince's
+Promiſe, is to forfeit the expected Support; and whoſoever ſcoffingly
+calls His Majeſties merciful Indul<g ref="char:EOLhyphen"/>gence only a Scaffolding, may perhaps very
+ſoon come to deſerve a more diſhonourable Death than is uſually
+exe<g ref="char:EOLhyphen"/>cuted upon the Fabrick he mentions. And therefore if the Church of
+<hi>England</hi> would be ſecure in her own Li<g ref="char:EOLhyphen"/>berty, 'tis not only her Duty,
+but her Intereſt, to pro<g ref="char:EOLhyphen"/>mote and confirm that of others. I know we pretend
+to merit much, by obſtructing the Bill of Excluſion: Let us not then
+deſtroy our former Deſert by our preſent Errors; for 'tis poſſible
+that our Righteouſneſs may be forgot, and in the Sin that we ſin we may
+die.</p>
+               <p>None certainly can be againſt the King's Inclinations now, but
+thoſe who would be now for His Excluſion; for he that contradicts his
+Prince's Inclinations even in things Indifferent, tacitly inſinuates; that he
+would not have ſuch a Man to ruſe over him; and he that contra<g ref="char:EOLhyphen"/>dicts 
+<pb n="28" facs="tcp:46914:15"/>what by His Majeſty and His wiſe Council is ad<g ref="char:EOLhyphen"/>judg'd
+to be for the Strength and Peace of the Nation, is no longer a Friend, but a
+ſtubborn Enemy to the Go<g ref="char:EOLhyphen"/>vernment: For his Eye muſt neceſſarily be evil
+becauſe the King's is good. Common Gratitude methinks ſhould oblige our
+Obedience, not only in this, but in all other Affairs. His Majeſty has
+graciouſly confirm'd to us all that we poſſeſs; and ſhall we, like
+<hi>Jeſurun,</hi> when we remain fat, kick againſt him that makes us ſo,
+and in the heighth of our Plenty envy our poor Brethren the ſmall Crums which
+fall from our Table? Many of our Church have writ, ſpake, and inveigh'd
+againſt what His Ma<g ref="char:EOLhyphen"/>jeſty would have done; yet He daily forgives us: And
+when our Lord and Maſter hath forgiven us, ſhould we in return take our
+Fellow-ſubjects by the Throats; and when he is merciful to us, reſolve to
+be cruel to the reſt of his Servants? His Majeſty has promis'd to be our
+De<g ref="char:EOLhyphen"/>fence, if we pleaſe; and ſhall we fooliſhly and ungrate<g ref="char:EOLhyphen"/>fully reject
+His Safeguard? Shall we refuſe His Protecti<g ref="char:EOLhyphen"/>on, but deſire one Attribute of
+the Prerogative, <hi>viz.</hi> the Supreme Power of the Sword, that we may
+deſtroy others, whilſt we protect our ſelves? And when He has promis'd to
+be our Shepherd, ſhall we refuſe to be harm<g ref="char:EOLhyphen"/>leſs Sheep, but expect to be
+made Porcupines, and co<g ref="char:EOLhyphen"/>ver'd all o're with Armour?</p>
+               <p>Let it not be recorded in our Annals, That we were lowly then
+only when we were oppreſs'd, inclin'd to Pity but in thoſe days only when
+we could not ſtrike; and that the eſtabliſh'd Church, when it could not
+wound others, was <hi>Felo de ſe,</hi> and turn'd militant againſt it
+ſelf. For 'tis certain, that whilſt we ſtand up for an Arbitrary Safety,
+we ſeek and purſue our own Ruine; ſince a common Underſtanding may
+eaſily foretel, that no ſuch Pride can continue long without the attendance
+of a Fall; and that by obſtinate Methods taken for our<pb n="29" facs="tcp:46914:15"/>Safety, to the pity of our Friends, and the triumph of our Enemies, we
+ſhall find our Security at laſt in the worſt ſenſe, and experience
+our Church to be ſure and ſafe, by being dead and gone.</p>
+               <p>Let it not be ſaid of us who are for Paſſive Obedience,
+That we intend paſſively to obey the King only ſo long as he would permit
+us actively to afflict our Fellow-Subjects; That we would accept him with his
+Throne and dreadful Scepter, but not with the ſoft Plumes of his
+Mercy-ſeat; That we approv'd of Majeſty, not when 'twas cloth'd with its
+Forgiveneſs, but its Terror; and deſir'd it to approach the reſt of the
+Nation as <hi>Jupiter</hi> did <hi>Semele,</hi> with that Thunder which is
+certain to make its Peace an Abort. Let no Sons of the Church of
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> preſume henceforth with a Confeſſorian Boldneſs to
+call His Sacred Majeſty, who is a zealous Worſhipper of the True God, an
+Idolater: Let none dare impiouſly to name the King, who adores his Saviour, a
+Wafer-wor<g ref="char:EOLhyphen"/>ſhipper: For this is to treat a Prince with leſs Civility than is
+given to his Subjects; 'tis no leſs than to ſpit rudely in the Face of
+Majeſty, to endeavour to juſtle the King out of the Affections of his
+People, and to give our ſelves the Lie, when we do theſe things, and yet
+de<g ref="char:EOLhyphen"/>clare our ſelves to be of the Church of <hi>England,</hi> which obliges us
+to the Obedience of Words and Thoughts, as well as of Actions. And well it is
+for ſuch a ſort of Men, that they liv'd not in Queen <hi>Elizabeths</hi>
+time. Let no Sons of the Church of <hi>England</hi> irrationally and
+uncharitably believe a Popiſh Prince uncapable of Re<g ref="char:EOLhyphen"/>pentance, and be tempted
+to pray for his Deſtruction; for 'tis expreſly contrary to the Doctrine of
+the Bleſſed Jeſus: It might provoke a Prince to put a Regulator to ſuch
+Devotions, ſince, when ſuch Men come to the Pub<g ref="char:EOLhyphen"/>lick Congregations, they
+muſt ſeem to pray for the King, when they pray againſt him; and I
+declare, upon a Sup<g ref="char:EOLhyphen"/>poſition<pb n="30" facs="tcp:46914:16"/>poſition of their
+incapacity of Repentance too, and that there were no Laws in force to puniſh
+ſuch treaſonable Overtures, it might tempt all honeſt and loyal Men, for
+the good of the Church and State, to wiſh that ſuch a kind of
+Church-Votaries would exactly copy all the Acti<g ref="char:EOLhyphen"/>ons of the wretched
+<hi>Judas,</hi> after he had barbarouſly be<g ref="char:EOLhyphen"/>tray'd his gracious Lord and
+Maſter. For, with ſuch Men, to love and honour the King, is to be an
+Apoſtate; to love and be kind to our Neighbour, is to be highly ir<g ref="char:EOLhyphen"/>religious;
+and to endeavour to confirm the Reconcilia<g ref="char:EOLhyphen"/>tion of the King to His Subjects,
+and to create a laſting Friendſhip of the King's Subjects among
+themſelves, is to be an Enemy to true Peace. With ſuch, a moroſe
+Stub<g ref="char:EOLhyphen"/>bornneſs againſt, is to be Loyal to His Majeſty: Saucily to affront
+the King, is to be a True Proteſtant; and Diſ<g ref="char:EOLhyphen"/>obedience to the Father of
+our Country, is a manifeſta<g ref="char:EOLhyphen"/>tion of being a true Son of the Mother-Church.
+But let all thoſe who are truly Religious and Loyal, encourage themſelves
+in the God of Peace, and in our merciful Sa<g ref="char:EOLhyphen"/>viour who is the Prince of Peace,
+and in His Sacred Ma<g ref="char:EOLhyphen"/>jeſty who is truly a King of Peace; and being ſo
+encou<g ref="char:EOLhyphen"/>rag'd, let 'em go about the great Work of Peace; and if they are pointed
+at for being Loyal, let 'em know, that 'tis a Mark of Favour. To be
+ſtigmatiz'd for being thus peaceable, is to wear the Character of Heaven; and
+tho they fail of the deſigned End in this World, they cannot miſs the
+Reward of the Peacemaker in the next.</p>
+               <p n="7">
+                  <hi>Seventhly,</hi> We ought to obey the King in the
+Repeal of the Teſts and Penal Laws, if we conſider the Duties we owe to our
+Neighbours.</p>
+               <p>'Tis at once ungenerons and unjuſt, to monopolize the Common
+Good, to engroſs the King to our ſelves, and to repine that all the Vital
+Spirit flows not from the Sa<g ref="char:EOLhyphen"/>cred-Head to one particular Member; ſince
+<hi>Judah</hi> ought to have a proportionable Share in her <hi>David,</hi> as
+well as contending <hi>Iſrael.</hi>
+               </p>
+               <p>
+                  <pb n="31" facs="tcp:46914:16"/>Where is the Kindneſs to our Neighbour,
+when we deſire to give Life to thoſe Laws which are certain Death to our
+Brethren? The King, like Heaven, deſigns that His Sun ſhine ſhall be
+darted on all, the Juſt as the Un<g ref="char:EOLhyphen"/>juſt; ſhall we then raiſe a Storm to
+obſtruct the refreſh<g ref="char:EOLhyphen"/>ing Beams? Or ſhall the Church aſſume the Nature
+of a Burning-glaſs, and ſo contract the extended Rays, as to tranſmit 'em
+to the Conflagration of Diſſenters? The King, like Heaven, deſigns His
+Drops of Mercy ſhall fall on all around; let none therefore ſhew
+themſelves ſo en<g ref="char:EOLhyphen"/>viouſly covetous, as to wiſh the fruitful Moiſture
+were all confin'd to his own Channel. No; let us conſider, that even thoſe
+whom we think Prodigals may expect the fatted Calf from the merciful Father of
+their Coun<g ref="char:EOLhyphen"/>try, as well as we, who too haughtily imagine that we never went
+aſtray. Let us not curſe whom the King de<g ref="char:EOLhyphen"/>ſigns to bleſs, nor call for
+Fire from Heaven to conſume whom He graciouſly means to warm: And when,
+like His Saviour, He comes to ſave Mens Lives, far be it from us to ſeek to
+deſtroy 'em, and that by thoſe Laws and Teſts which ſome have very ill
+compar'd to <hi>Samſon</hi>'s Hair; but they may very well, in time, be
+reſembled to <hi>Samſon</hi>'s Lion, out of which no Sweetneſs can be
+expe<g ref="char:EOLhyphen"/>cted till they lay down their Terror and are dead.</p>
+               <p>If we would do as we would be done by, we ſhould not lade Men
+with Burdens which we are not willing to bear our ſelves. When we are well
+cloth'd, why ſhould we deſire to ſtrip our thred bare Brethren? Or why
+ſhould we think it reaſonable to deſire our Neighbours to lye ſtill,
+that they may be the more conveniently beaten?</p>
+               <p>Let it no more be ſaid, That whilſt <hi>Rome,</hi> like
+<hi>Saul,</hi> has ſlain its thouſands, the Church of <hi>England</hi> has
+ex<g ref="char:EOLhyphen"/>tinguiſh'd its ten thouſands. Let it no more be ſaid
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at we have ſeparated the
+Inhabitants from their Native<pb n="32" facs="tcp:46914:17"/>Country; ſeparated earning
+Parents from their weep<g ref="char:EOLhyphen"/>ing Offspring, the loving Husband from the lamenting
+Wife, the Orphans Morſel from his hungry Stomach, and divided the poor Widow
+from her little Handful and her remaining Cruiſe. Let it not be ſaid, That
+we en<g ref="char:EOLhyphen"/>deavour to out-do the Miſeries of <hi>France:</hi> For the
+Un<g ref="char:EOLhyphen"/>happineſs of the <hi>Hugonots</hi> was finiſh'd in ſhort; but that of
+the Diſſenters, by keeping up the Teſts and Penal Laws, muſt be
+endleſs. Let it not be ſaid, That 'tis not ſo much the Union as the
+Undoing of our Neighbours, that we ſeek after; that 'tis not <hi>Diana,</hi>
+but her Shrines, that we regard; and conſequently, that we our ſelves are
+the Buyers and Sellers who deſerve the Whip for the clearing of the
+Temple.</p>
+               <p n="8">
+                  <hi>Eighthly,</hi> We ought to concur for the Repealing of
+the Teſts and Penal Laws, if we would be kind to our Country.</p>
+               <p>'Tis not the diverſity of Religious Profeſſions in a
+Kingdom that make a Nation unhappy, as I obſerv'd be<g ref="char:EOLhyphen"/>fore; but the Sanguinary
+Cruelty for ſuch a Variety. 'Twas not the nature of <hi>Joſeph</hi>'s
+many-colour'd Coat, but the Malice of his Brethren, that ſeparated him from
+his lamenting Father. And when a Nation is ſeparated from her Common Father,
+ſuch a Diviſion is not caus'd by the various Complexion of her Religion,
+but by the Diſobedience and Ingratitude of her Sons: For we are aſſured
+from Hiſtory, and our own Experience, that where the Complexion of Religion
+is as various as that of the Rainbow, like a Sacred Rainbow too, it keeps the
+World there from a Deluge of Blood, and an Inundation of Poverty: For nothing
+depopulates a Country like the ſevere Endeavour for the Uniformity of its
+Inhabitants. When preſs'd by the Heat of Penal Laws, they quickly fly away
+like Mercury, and ſuch a Mercury too, which carrys along the radiant Metal
+and gaudy Wealth in its<pb n="33" facs="tcp:46914:17"/>departure; or if they be hindred
+from flight, for want of Vent they commonly burſt the Veſſel, and rend by
+Diſcord the Kingdom which contains 'em.</p>
+               <p>But, ſay ſome, if the Teſts and Penal Laws be taken off,
+they may be renewed againſt our ſelves, and ſo our own Cannon will be
+turned upon us.</p>
+               <p>To this I anſwer, If a Security be poſſible to be made by
+King and Parliament, we have the Royal Word it ſhall be done. The King of
+Himſelf might give His People this Bleſſing of Peace for His Life, and
+very much longer; yet when He deſigns a more laſting Happineſs, He will
+not effect it without our helping Hands, and, like Heaven it ſelf, reſolves
+not to ſave us without our own Concurrence. By which general Concurrence, the
+general Security muſt be ſtrong: For when the Papiſt, the Church of
+<hi>England,</hi> and all Diſſenters are jointly and equally concern'd,
+like ſo many Stones contributing to an Arch, the Fabrick muſt be ſure.
+One will ballance the other, and ſo evenly, that, like a known Example in
+<hi>Mathematicks,</hi> Where three Pieces are put together, 'tis impoſſible
+that one without the reſt ſhould fall.</p>
+               <p>There are ſome who are for nulling the Penal Laws in relation
+to ſome Diſſenters only: But the Partiality is unreaſonable; for 'tis
+to be eaſie to ſome, that the Seve<g ref="char:EOLhyphen"/>rity might fall with a greater weight on
+the reſt.</p>
+               <p>There are others that are for the taking away both Teſts and
+Penal Laws; but they would only have it for the pre<g ref="char:EOLhyphen"/>ſent Reign. To ſuch I
+anſwer; Beſides the taking notice of the Impertinence of the
+Conceſſion, ſince the King of him<g ref="char:EOLhyphen"/>ſelf has Power to do it, there is an
+horrid Uncharitableneſs in it; for, to take away the Teſts but <hi>pro
+tempore,</hi> is only ſo to take 'em away, that they may certainly return;
+and to plant 'em as it were under-ground, that they may ſpring up in the
+expected time with a greater exuberan<g ref="char:EOLhyphen"/>cy: And then where is my ſincere
+Charity to my Neigh<g ref="char:EOLhyphen"/>bour,<pb n="34" facs="tcp:46914:18"/>when I deſign to ruin him
+hereafter, tho my Hands muſt be diſcreetly tied up for the preſent? Where
+is my Charity, when I forbear to ſet Fire to the fatal Train now, but leave
+it ready, that I may the more ſecurely blow him up in the days to come? And
+where is my Chriſtian Temper, when I conſent to let the Lion ſleep in
+this King's Reign, that he may rouze more ſtrongly and devour the Innocent in
+the next? No; let us not rob our Countrymen of their Rights in this World,
+be<g ref="char:EOLhyphen"/>cauſe we think their Opinions in the wrong for the next. Let us not
+imagine that they cannot be good Subjects to the King in Temporals, becauſe
+ſome of them own ano<g ref="char:EOLhyphen"/>ther Supreme in Spirituals: Nor let us, againſt all
+Expe<g ref="char:EOLhyphen"/>rience and Reaſon, conclude, That <hi>France</hi> and <hi>Spain</hi>
+have no good Subjects, nor Abſolute Monarchs, becauſe we know they are
+perfect and profeſs'd Catholicks.</p>
+               <p>To draw towards a Concluſion therefore. If we would be
+grateful to the King, let us diveſt our ſelves of all mo<g ref="char:EOLhyphen"/>roſe
+Roughneſs, and, like poliſh'd Bodies, reflect back thoſe Beams of
+Clemency which He daily ſheds upon us. If we would be merciful to our
+Neighbours, let us cut the cruel Knots which our own Hands have kept too long
+tied. If we would be kind to our ſelves, let us not provoke His Majeſty to
+take away that Eaſe from us which we refuſe to allow others.</p>
+               <p>Are we afraid of Popery? The King aſſures us, 'Tis
+poſſible to be happy, without being pernicious. Ought the King to be afraid
+of Popiſh Recuſants? He muſt then be afraid of himſelf and his faithful
+Friends. Are the Laws that ought to be repeal'd wholeſom and rational? What
+can be more cruel and abſurd, than to oblige a Prince to proſecute his
+Friends for Traytors, to ſuppoſe him a Foe to the Scepter he ſways, and
+his Head an Offen<g ref="char:EOLhyphen"/>der againſt the Crown it wears? Is the Teſt fit to live?
+It is concluded to have ow'd its Life to the Breath of Per<g ref="char:EOLhyphen"/>jury, 
+<pb n="35" facs="tcp:46914:18"/>to have grown by Currents of guiltleſs Blood, to be
+deſign'd againſt our Sovereign, and can only be pre<g ref="char:EOLhyphen"/>ſerv'd from death by
+thoſe who muſt err in their Charity and their Underſtandings.</p>
+               <p>Is His Majeſty not to be believ'd? He has given the greateſt
+Demonſtrations of his Veracity imaginable; and thoſe who diſtruſt him,
+after all, may juſtly expect the Merits of a ſtubborn Unbelief. Is it
+impoſſible to have an agreeable Proſpect of Affairs, if the Teſts be
+repeal'd? Set but aſide the Miſts of Pride, Intereſt, and Malice, and all
+will be fair as the ſerene Peace which we ſeek. Are Popery and
+Proteſtancy inconſiſtent in a Nation? Expe<g ref="char:EOLhyphen"/>rience atteſts the contrary;
+and if as different as <hi>Jacob</hi> and <hi>Eſau,</hi> yet, like thoſe
+Twins, they might be nouriſh'd in a very narrow compaſs. Would we grant as
+much Liberty as is in the <hi>Low-Countries?</hi> Then let the Teſts be
+repeal'd, which deprive Men of the Honour of the Court; and the Profit of
+Employments.</p>
+               <p>Can't the Church and State be preſerv'd without Teſts and
+Penal Laws? How were they maintain'd before their Making, and how have they
+flouriſh'd ſince their Diſpen<g ref="char:EOLhyphen"/>ſation? Ought the Laws already made to
+remain? No Laws ought longer to remain, than they are for the ſup<g ref="char:EOLhyphen"/>port of
+that Peace for which they were deſign'd: But they ought rather to expire,
+when their Eſtabliſhment threatens the Deſtruction of our Peace and our
+Loyalty.</p>
+               <p>Do's the Papiſt enjoy Toleration and Preferment from his
+Prince, and therefore needs no further Security? May not the Catholicks ask you
+then, If you are ſecur'd of your Life to day, what need you an Aſſurance
+for to morrow? Or, If you are ſecur'd of your own Life, what need there be a
+care for your dear Poſterity? Finally, Tho ſeeming Clouds appear, let our
+Fears and Jealouſies be laid aſide, and fear no Darkneſs, ſince God and
+the King ſay, <hi>Let there be Light.</hi> When the King ſends out 
+<pb n="36" facs="tcp:46914:19"/>the pleaceful Dove let out turbulent Waters abate, and let
+the Olive branch be return'd to the Sacred Pilot. Like the Son in the Goſpel,
+who retus'd to do his Father's Will at firſt, but afterwards repented and
+went about it, let our Eyes after all be ſo open'd, as to obey his Majeſty;
+that thoſe Laws which ow'd their forc'd Generations to preternatural Heats
+and Miſtake, may be ſpeedily de<g ref="char:EOLhyphen"/>ſtroy'd by a cool and ſedate
+Underſtanding.</p>
+            </div>
+            <div type="conclusion">
+               <p>And now I expect for this Publick Diſcourſe to be call<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> what I have often been ſtyl'd for
+the Loyalty of my Pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vate
+Converſe to wit, <hi>A Papiſt.</hi> But if to love and h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nour my God; and to preach the Practice
+and Doctrine <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my Saviour, be to
+be a Papiſt, I am one. If to preach Al<g ref="char:EOLhyphen"/>legiance to my Prince, and Peace to my
+Brethren, be to <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Papiſt, I
+am one. Or if to entreat the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to love herſelf, and
+to act according to her own Prin<g ref="char:EOLunhyphen"/>ciples, be to be of the Church of
+<hi>Rome,</hi> I confeſs I am <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+For I declare, in what I have ſaid, I have only
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſcharg'd my Conſcience,
+which would never ſuffer <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+through the whole Courſe of my Life to be obſtinately Irreligious towards
+my Maker, to be indecently Irreve<g ref="char:EOLhyphen"/>rent to my Saviour, to be in the leaſt
+Diſloyal to my King, or Uncharitable to my Neighbour. For the preſervation
+of which Conſcience, I here declare, I will be content to be a Beggar, or
+ev'n Nothing upon the face of the Earth, rather than by its Vaſtation to
+become the greateſt Sub<g ref="char:EOLhyphen"/>ject in the World. And all who know me, (and I have
+the happineſs of ſpeaking to a great number who do) know that I ſincerely
+ſpeak the Truth: By which, if, with the Apoſtle, I am become any Mans
+Enemy, I muſt be forc'd to tell him, That True Religion, and its
+Conſe<g ref="char:EOLhyphen"/>quent True Loyalty, are far too precious to be expended for the
+Purchaſe of a Seditious Friendſhip.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
